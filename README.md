@@ -14,7 +14,7 @@ resource, send me an [**email**](mailto:src402@nyu.edu) about it with the subjec
 
 <sub>To be released every Monday and Wednesday after 6:20pm.</sub>
 
-1. [**Introduction**](lectures/introduction/)
+1. [**Introduction**](/lectures/01_intro/)
 
 ### How To Use This Repository
 
@@ -46,7 +46,7 @@ The general structure of the repo is as follows:
             └── example_solution.py
 ```
 
-That is, each [**lecture**](#lectures/01_intro) sub-folder contains a lecture notes `README` file along with its supplementary
+That is, each [**lecture**](#lectures) sub-folder contains a lecture notes `README` file along with its supplementary
 `py` files and other assets (such as images, etc.).
 
 ---
