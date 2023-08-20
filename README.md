@@ -46,7 +46,7 @@ The general structure of the repo is as follows:
             └── example_solution.py
 ```
 
-That is, each [**lecture**](#Lectures) sub-folder contains a lecture notes `README` file along with its supplementary
+That is, each [**lecture**](#lectures/01_intro) sub-folder contains a lecture notes `README` file along with its supplementary
 `py` files and other assets (such as images, etc.).
 
 ---
