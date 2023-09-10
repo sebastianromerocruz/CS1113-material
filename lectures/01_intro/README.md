@@ -63,5 +63,4 @@ at it. My recommendations, thus, are as follows:
 
 ---
 
-<!-- <sub>**Next: [Programming Fundamentals 1](/lectures/fundamentals_1)**</sub> -->
-<sub>Next: **Programming Fundamentals 1**</sub>
+<sub>**Next: [Programming Fundamentals 1](/lectures/02_parts_of_a_program)**</sub>
