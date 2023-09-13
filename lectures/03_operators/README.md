@@ -125,13 +125,14 @@ Here's a table of the arithmetic operators available to us in Python:
 
 <sub>**Figure 5**: Python's arithmetic operators.</sub>
 
-The precedence of these operators are basically the same as the mathematical acronym P.E.M.D.A.S., except we could 
-expand it to include negation (negative numbers) : P.E.N.M.D.A.S. (very catchy):
+The precedence of these operators are basically the same as the mathematical acronym P.E.M.D.A.S., except we could expand it to include negation (negative numbers) : P.E.N.M.D.A.S.:
 
 1. **P**: Parentheses `()`
 2. **E**: Exponentiation `**`
 3. **N**: Negation `-`
 4. **M**: Multiplication `*`; **D**: Division `/`; **I**: Integer division `//`; **M**: Modulus `%`; **A**: Addition `+`; **S**: Substraction `-`
+
+Since all operators in number 4 share the same precedence, in Python, we consider them _left to right_ (see the third example below).
 
 For example:
 
@@ -142,8 +143,8 @@ For example:
 >>> 5 * (3 + 2) * 7
 175
 
->>> 7 % 3 * -5
--5
+>>> 7 % 3 * 5
+5
 
 >>> 98 // 10 + 2 % 7
 11
