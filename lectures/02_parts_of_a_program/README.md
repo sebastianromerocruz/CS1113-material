@@ -14,6 +14,7 @@
 2. [**Parts of a Program**](#part-2-parts-of-a-program)
 3. [**Values and Types**](#part-3-values-and-types)
 4. [**Variables**](#part-4-variables)
+5. [**Program Input**](#part-5-program-input)
 
 ### Part 1: _Getting Organised_
 
@@ -312,6 +313,6 @@ us, the programmers, to parse that input into a usable form.
 
 ---
 
-<sub>**Previous: [Introduction](/lectures/01_intro)** || **Next: Operators and Expressions**</sub>
+<!-- <sub>**Previous: [Introduction](/lectures/01_intro)** || **Next: Operators and Expressions**</sub> -->
 
-<!-- <sub>**Previous: [Introduction](/lectures/01_intro)** || **Next: [Programming Fundamentals 2](/lectures/fundamentals_2)**</sub> -->
+<sub>**Previous: [Introduction](/lectures/01_intro)** || **Next: [Programming Fundamentals 2](/lectures/03_operators)**</sub>

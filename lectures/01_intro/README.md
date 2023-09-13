@@ -63,4 +63,4 @@ at it. My recommendations, thus, are as follows:
 
 ---
 
-<sub>**Next: [Programming Fundamentals 1](/lectures/02_parts_of_a_program)**</sub>
+<sub>**Next: [Parts of a Program](/lectures/02_parts_of_a_program)**</sub>
