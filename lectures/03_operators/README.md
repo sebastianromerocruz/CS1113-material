@@ -6,7 +6,7 @@
 
 ---
 
-<p align=center><strong><em>Song of the day</strong>: <a href="https://youtu.be/-xoxu1zHiSY?si=pgKx3HYbEiUzBO4V"><strong><u>어젯밤 이야기 (Last Night Story)</u></strong></a> by IU (2017)</em></p>
+<p align=center><strong><em>Song of the day</strong>: <a href="https://youtu.be/cxcxskPKtiI?si=PHorF2ZqhiDlDSBX"><strong><u>어젯밤 이야기 (Last Night Story)</u></strong></a> by IU (2017)</em></p>
 
 ### Sections
 

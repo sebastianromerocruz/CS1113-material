@@ -315,4 +315,4 @@ us, the programmers, to parse that input into a usable form.
 
 <!-- <sub>**Previous: [Introduction](/lectures/01_intro)** || **Next: Operators and Expressions**</sub> -->
 
-<sub>**Previous: [Introduction](/lectures/01_intro)** || **Next: [Programming Fundamentals 2](/lectures/03_operators)**</sub>
+<sub>**Previous: [Introduction](/lectures/01_intro)** || **Next: [Operators](/lectures/03_operators)**</sub>
