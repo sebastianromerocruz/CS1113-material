@@ -130,7 +130,8 @@ The precedence of these operators are basically the same as the mathematical acr
 1. **P**: Parentheses `()`
 2. **E**: Exponentiation `**`
 3. **N**: Negation `-`
-4. **M**: Multiplication `*`; **D**: Division `/`; **I**: Integer division `//`; **M**: Modulus `%`; **A**: Addition `+`; **S**: Substraction `-`
+4. **M**: Multiplication `*`; **D**: Division `/`; **I**: Integer division `//`; **M**: Modulus `%`
+5. **A**: Addition `+`; **S**: Substraction `-`
 
 Since all operators in number 4 share the same precedence, in Python, we consider them _left to right_ (see the third example below).
 
