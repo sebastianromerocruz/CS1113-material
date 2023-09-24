@@ -231,3 +231,5 @@ finding the hexadecimal equivalents of 7, 10 and 15 isn't difficult if we are fa
 > (1967)<sub>10</sub> = (11110101111)<sub>2</sub> = **(7af)<sub>16</sub>**.
 
 And just like that, we converted 1967 to all relevant units in one fell swoop!
+
+<sub>**Previous: [Operators](/lectures/03_operators)** || **Next: [Number Systems](/lectures/05_modules)**</sub>
