@@ -103,6 +103,24 @@ you want to raise, and the power to which you want to raise it, in that order:
 <sub>**Figure 2**: `math.pow()`'s documentation, explaining its use and its difference from the built-in `**` 
 operator.</sub>
 
+Here are the most common functions in Python `math` module:
+
+| Function         | Description                                                    |
+|------------------|----------------------------------------------------------------|
+| `math.sqrt(x)`   | Returns the square root of **`x`**                             |
+| `math.floor(x)`  | Returns the largest integer less than or equal to **`x`**      |
+| `math.ceil(x)`   | Returns the smallest integer greater than or equal to **`x`**  |
+| `math.sin(x)`    | Returns the sine of **`x`** (in radians)                       |
+| `math.cos(x)`    | Returns the cosine of **`x`** (in radians)                     |
+| `math.tan(x)`    | Returns the tangent of **`x`** (in radians)                    |
+| `math.log(x)`    | Returns the natural logarithm of **`x`**                       |
+| `math.exp(x)`    | Returns ***e*** raised to the power of **`x`**                 |
+| `math.pow(x, y)` | Returns ***x*** raised to the power of **`y`**                 |
+| `math.fabs(x)`   | Returns the absolute value of **`x`** as a float               |
+| `math.radians(x)`| Converts angle **`x`** from degrees to radians                 |
+
+<sub>**Figure 3**:  Main functions in Python `math` module.</sub>
+
 Here's the entire [**documentation**](https://docs.python.org/3/library/math.html) for the `math` module for your 
 reference.
 
@@ -214,6 +232,22 @@ A random number from 1 (inclusive) and 10 (inclusive): 10
 
 For now, these are the functions from the `random()` module that you will be using the most, but we will be getting into
 others later in the semester.
+
+Here are the most common functions in Python `random` module:
+
+| Function                 | Description                                                                                                      |
+|--------------------------|------------------------------------------------------------------------------------------------------------------|
+| `random.random()`        | Returns a random float between ***0*** and ***1***                                                               |
+| `random.randint(a, b)`   | Returns a random integer between **`a`** and **`b`** (inclusive)                                                 |
+| `random.choice(seq)`     | Returns a random element from the sequence **`seq`**                                                             |
+| `random.shuffle(seq)`    | Shuffles the elements in the sequence **`seq`**                                                                  |
+| `random.sample(seq, k)`  | Returns a list of **`k`** unique elements from **`seq`**                                                         |
+| `random.uniform(a, b)`   | Returns a random float between **`a`** and **`b`**                                                               |
+| `random.gauss(mu, sigma)`| Returns a random float using a Gaussian distribution with mean **`mu`** and standard deviation **`sigma`**       |
+| `random.seed(x)`         | Sets the random seed to **`x`** for generating random numbers                                                    |
+| `random.random()`        | Returns a random float between ***0*** and ***1***                                                               |
+
+<sub>**Figure 4**:  Main functions in Python `random` module.</sub>
 
 Here's the `random` module's [**documentation**](https://docs.python.org/3/library/random.html) for your reference.
 
