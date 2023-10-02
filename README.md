@@ -24,6 +24,7 @@ This repository contains Prof. Sebastián Romero Cruz's CS 1113 lecture notes an
 3. [**Operators**](/lectures/03_operators/)
 4. [**Number System**](/lectures/04_number_systems/)
 5. [**Python Modules**](/lectures/05_modules/)
+6. [**Selections Statements**](/lectures/06_selection_statements/)
 
 ### Instructor
 

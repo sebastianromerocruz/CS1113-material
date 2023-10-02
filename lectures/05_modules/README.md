@@ -251,4 +251,4 @@ Here are the most common functions in Python `random` module:
 
 Here's the `random` module's [**documentation**](https://docs.python.org/3/library/random.html) for your reference.
 
-<sub>**Previous: [Number Systems](/lectures/04_number_systems)** || **Next: Modules Review**</sub>
+<sub>**Previous: [Number Systems](/lectures/04_number_systems)** || **Next: [Selection Statements](/lectures/06_selection_statements)**</sub>
