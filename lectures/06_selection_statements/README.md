@@ -436,4 +436,4 @@ single paths of only two options.
 
 ---
 
-<sub>**Previous: [Python Modules](/lectures/05_modules)** || **Next: `while`-Loops**</sub>
+<sub>**Previous: [Python Modules](/lectures/05_modules)** || **Next: [`while`-Loops](/lectures/07_while_loops)**</sub>
