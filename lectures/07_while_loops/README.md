@@ -282,4 +282,4 @@ doing something wrong.
 
 ---
 
-<sub>**Previous: [Selection Statements: `if`, `elif`, `else`, and Common Mistakes](/lectures/06_selection_statements)** || **Next: Control-Flow Structures: The `for`-Loop**</sub>
+<sub>**Previous: [Selection Statements: `if`, `elif`, `else`, and Common Mistakes](/lectures/06_selection_statements)** || **Next: [Control-Flow Structures: The `for`-Loop](/lectures/08_for_loops)**</sub>
