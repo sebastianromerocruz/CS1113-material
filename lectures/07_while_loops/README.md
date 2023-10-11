@@ -2,7 +2,7 @@
 
 <h1 align=center><code>while</code>-Loops</h1>
 
-<h3 align=center>9 Wyvern Moon, Imperial Year MMXXIII</h3>
+<h3 align=center>10 Wyvern Moon, Imperial Year MMXXIII</h3>
 
 <p align=center><strong><em>Song of the day</strong>: <a href="https://youtu.be/UEaVv3kayLg?si=Y4x7rHWAuI9W2amt"><strong><u>アルペジオ (Arpeggio)</u></strong></a> by Homecomings (2022).</em></p>
 
