@@ -661,3 +661,7 @@ the following syntax:
 >>> jazz_musician[2:len(jazz_musician):2]
 'mdJml'
 ```
+
+---
+
+<sub>**Previous: [Control-Flow Structures: The `for`-Loop](/lectures/08_for_loops)** || **Next: Functions**</sub>

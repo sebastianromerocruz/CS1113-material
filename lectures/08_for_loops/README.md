@@ -328,4 +328,4 @@ Oh and, to reiterate: no, the `break` keyword is absolutely not allowed in this 
 
 ---
 
-<sub>**Previous: [Control-Flow Structures: The `while`-Loop](/lectures/07_while_loops)** || **Next: Loop Review and Strings as Sequences**</sub>
+<sub>**Previous: [Control-Flow Structures: The `while`-Loop](/lectures/07_while_loops)** || **Next: [Loop Review and Strings as Sequences](/lectures/09_strings)**</sub>
