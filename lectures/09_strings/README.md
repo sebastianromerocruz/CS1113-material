@@ -1,6 +1,6 @@
 <h2 align=center>Lecture 09</h2>
 
-<h1 align=center>Strings as Sequences</h1>
+<h1 align=center>The <code>str</code> Object</h1>
 
 <h3 align=center>16 Wyvern Moon, Imperial Year MMXXIII</h3>
 
