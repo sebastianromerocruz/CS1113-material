@@ -664,4 +664,4 @@ the following syntax:
 
 ---
 
-<sub>**Previous: [Control-Flow Structures: The `for`-Loop](/lectures/08_for_loops)** || **Next: Functions**</sub>
+<sub>**Previous: [Control-Flow Structures: The `for`-Loop](/lectures/08_for_loops)** || **[Next: Functions: _Parameters_](/lectures/10_functions_params/)**</sub>

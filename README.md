@@ -29,9 +29,10 @@ This repository contains Prof. Sebastián Romero Cruz's CS 1113 lecture notes an
     1. [**`while`-Loops**](/lectures/07_while_loops/)
     2. [**`for`-Loops**](/lectures/08_for_loops/)
 8. [**The `str` Object**](/lectures/09_strings/)
-7. **Python Functions**:
+9. **Python Functions**:
     1. [**Parameters**](/lectures/10_functions_params/)
     2. **`return`**
+10. [**Python Lists**](/lectures/12_lists/)
 
 ### Instructor
 
