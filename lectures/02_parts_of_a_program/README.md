@@ -19,7 +19,7 @@
 One of the most underrated strategies for succeeding in this course is staying organised; keeping your files in places where you can readily find them will help you more than I can express in writing—you really have to see it to believe it. Go ahead and create a folder structure that looks like this:
 
 ```
-cs1114
+cs1113
  │
  ├── hw
  │   └── assignment_1
