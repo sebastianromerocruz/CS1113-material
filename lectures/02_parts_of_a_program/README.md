@@ -2,11 +2,11 @@
 
 <h1 align=center>Parts of a Program</h1>
 
-<h3 align=center>11 Horsebow Moon, Imperial Year 2023</h3>
+<h3 align=center>24 Guardian Moon Moon, Imperial Year MMXXIV</h3>
 
 ---
 
-<p align=center><strong><em>Song of the day</strong>: <a href="https://youtu.be/-xoxu1zHiSY?si=pgKx3HYbEiUzBO4V"><strong><u>Dreamer</u></strong></a> by Laufey (2023)</em></p>
+<p align=center><strong><em>Song of the day</strong>: <a href="https://youtu.be/G336e0fn_6s?si=htxXG_k67Pzfx7ge"><strong><u>Sometimes, I Swear</u></strong></a> by The Vaccines (2024)</em></p>
 
 ### Sections
 
