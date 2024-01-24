@@ -13,8 +13,6 @@
 1. [**Getting Organised**](#part-1-getting-organised)
 2. [**Parts of a Program**](#part-2-parts-of-a-program)
 3. [**Values and Types**](#part-3-values-and-types)
-4. [**Variables**](#part-4-variables)
-5. [**Program Input**](#part-5-program-input)
 
 ### Part 1: _Getting Organised_
 
@@ -141,11 +139,11 @@ The process of converting values from one type to the other is often called **ty
 >
 > The value of the string value `"Liz and the Blue Bird"` casted as a float is **invalid**.
 
-As you can see, casting to either an integer or a float from a string requires your string to contain a numerical value, and _nothing else_.
+<!-- As you can see, casting to either an integer or a float from a string requires your string to contain a numerical value, and _nothing else_.
 
-This is often a point of confusion for students. They will get, say, the _string_ `"3.15"` as the answer for an operation. However, if the rest of the program operates on `3.15` assuming that it is a float number, your program will very likely crash. Being able to catch and recognize these errors takes some practice, but it is something you should be consciously watching out for from the beginning.
+This is often a point of confusion for students. They will get, say, the _string_ `"3.15"` as the answer for an operation. However, if the rest of the program operates on `3.15` assuming that it is a float number, your program will very likely crash. Being able to catch and recognize these errors takes some practice, but it is something you should be consciously watching out for from the beginning. -->
 
-### Part 4: _Variables_
+<!-- ### Part 4: _Variables_
 
 Okay, so we have a way of representing data in the form of types, but how do we store this data so that we can use it in our programs? This is the job of ***variables***.
 
@@ -194,7 +192,7 @@ In memory, this might look like this
        |        │                │———————————│
        |        │         unused │ mem_loc c │
        v        │                │———————————│
-    _name ------│--------> _name │ mem_loc d │
+    _name ------│-------- > _name │ mem_loc d │
                 │                │———————————│
                 │         unused │ mem_loc e │
                 │                │———————————│
@@ -313,6 +311,6 @@ us, the programmers, to parse that input into a usable form.
 
 ---
 
-<!-- <sub>**Previous: [Introduction](/lectures/01_intro)** || **Next: Operators and Expressions**</sub> -->
+<sub>**Previous: [Introduction](/lectures/01_intro)** || **Next: Operators and Expressions**</sub> -->
 
-<sub>**Previous: [Introduction](/lectures/01_intro)** || **Next: [Operators](/lectures/03_operators)**</sub>
+<sub>**Previous: [Introduction](/lectures/01_intro)** || **Next: [Variables]()**</sub>
