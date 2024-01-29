@@ -2,7 +2,7 @@
 
 <h1 align=center>Introduction</h1>
 
-<h3 align=center>6 Horsebow Moon, Imperial Year 2023</h3>
+<h3 align=center>22 Guardian Moon, Imperial Year MMXXIV</h3>
 
 ---
 
