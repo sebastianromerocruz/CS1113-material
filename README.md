@@ -65,4 +65,4 @@ That is, each [**lecture**](#lectures) sub-folder contains a lecture notes `READ
 
 ---
 
-<sub>© Sebastián Romero Cruz 2023</sub>
+<sub>© Sebastián Romero Cruz 2024</sub>

@@ -82,7 +82,7 @@ A couple of technical terms that you should be aware of are **namespace** and **
 
 <sub>**Figure 4**: Examples of namespace vs. object space connections.</sub>
 
-These basically refer to the way values are stored and referenced in your computer's memory. You don't have to know much more about this; you'll learn more about memory than you'll ever want to during the rest of your four years as a CS/CE/EE major.
+These basically refer to the way values are stored and referenced in your computer's memory. You don't have to know much more about this.
 
 ---
 
