@@ -97,15 +97,11 @@ print(lecture_id)
 
 message = "オマエはもう死んでいる。"
 print(message)
-
-obvious_fact = 5 != "5"
-print(obvious_fact)
 ```
 Output:
 ```text
 8
 オマエはもう死んでいる。
-True
 ```
 
 That's a great thing to be able to do, and we'll be making ample use of this faculty. However, what kind of programs would we realistically be writing if we weren't able to interact with our user? After all, almost every program that is useful to us in some way gets our input; your phone registers your touch as an input, your laptop registers every key stroke as an input, a camera registers light as input. Input, input, input.
@@ -159,4 +155,4 @@ There is essentially no way of changing this behavior. Python, by design, receiv
 
 See today's class notes ([**9:30am**](https://colab.research.google.com/drive/1jJAnjb23iWxTBUbU6idB04dI3MtEzk8p?usp=sharing) and [**3:30pm**](https://colab.research.google.com/drive/1q4ekmkE2O8fWVpzDRzfZSITzQ2ugn6CL?usp=sharing)) for the examples we did of these.
 
-<sub>**Previous: [Parts of a Program](/lectures/02_parts_of_a_program)** || **Next: [Operators and Expressions]()**</sub>
+<sub>**Previous: [Parts of a Program](/lectures/02_parts_of_a_program)** || **Next: [Operators and Expressions](/lectures/04_operators_expressions)**</sub>
