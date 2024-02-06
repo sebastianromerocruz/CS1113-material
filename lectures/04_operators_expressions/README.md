@@ -292,4 +292,4 @@ As you can see, as long as we follow these rules, we can slowly and carefully ev
 
 ---
 
-<sub>**Previous: [Variables and User Input](/lectures/03_variables_input)** || **Next: [Assignments and Augmented Assignments]()**</sub>
+<sub>**Previous: [Variables and User Input](/lectures/03_variables_input)** || **Next: [**Assignments and Augmented Assignments**]()**</sub>
