@@ -2,12 +2,12 @@
 
 <h1 align=center>Python Modules</h1>
 
-<p align=center><strong><em>Song of the day</strong>: <a href="https://youtu.be/MkMTPnLdzzQ?si=3LIfcyjj2u1xasmd"><strong><u>Life During Wartime (Live in LA)</u></strong></a> by Talking Heads (1983)</em></p>
+<p align=center><strong><em>Song of the day</strong>: <a href="https://youtu.be/_Xcq6bbY71Y?si=4Y2l33C_yoiuw9CT"><strong><u>Stacy's Mom</u></strong></a> by Fountains of Wayne (2003)</em></p>
 
 ### Sections:
 
-1. [**The `math` Module**](#part-2-the-math-module)
-2. [**The `random` Module**](#part-3-the-random-module)
+- [**_The `math` Module_**](#part-1-the-math-module)
+- [**_The `random` Module_**](#part-2-the-random-module)
 
 ### Part 1: _The `math` Module_
 
@@ -190,4 +190,4 @@ Here's the `random` module's [**documentation**](https://docs.python.org/3/libra
 
 ---
 
-<sub>**Previous: [Number Systems](/lectures/05_number_systems)** || **Next: [Selection Statements: `if`, `elif`, `else`, and Common Mistakes]()**</sub>
+<sub>**Previous: [Number Systems](/lectures/05_number_systems)** || **Next: [Selection Statements: `if`, `elif`, `else`, and Common Mistakes](/lectures/07_selections)**</sub>
