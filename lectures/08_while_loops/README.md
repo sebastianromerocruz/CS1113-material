@@ -191,4 +191,4 @@ Oh and, before anybody asks, the use of the `break` keyword is ***absolutely for
 
 ---
 
-<sub>**Previous: [Selection Statements: `if`, `elif`, `else`, and Common Mistakes](/lectures/07_selections)** || **Next: [`for`-Loops]()**</sub>
+<sub>**Previous: [Selection Statements: `if`, `elif`, `else`, and Common Mistakes](/lectures/07_selections)** || **Next: [`for`-Loops](/lectures/09_for_loops)**</sub>
